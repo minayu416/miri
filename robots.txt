@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /miri/
+Disallow: /miri/tw/
+
+Sitemap: https://minayu.site/miri/sitemap.xml
