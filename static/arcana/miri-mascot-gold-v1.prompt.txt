@@ -1,0 +1,9 @@
+Created with the built-in image_gen tool, using app/favicon.jpg as the reference.
+
+Initial prompt:
+Use case: style-transfer / logo-brand. Edit target: attached Miri cartoon favicon. Create one simplified warm gold LINE ART version of this exact mascot for a website header on deep navy. Preserve distinctive side swept hair, little five-point star hair accessory at upper right, friendly oval eyes, tiny curved smiling mouth and minimal scarf at bottom. Keep recognizable original character identity; simplified head only, no body. All visible strokes warm pale gold #f5d48a, transparent negative space including face and hair, no brown/red/black/white fill areas, no background. Crisp smooth confident generously thick strokes that remain legible at 36-48 CSS px, sparse detail, no cheek hatching, no hair texture, no metallic gradients, no glow, no shadows. Center complete head with comfortable narrow transparent padding, square canvas. One standalone icon only, no text, no border, no mockup. Return transparent PNG asset.
+
+Refinement prompt:
+Clean up this exact mascot gold outline logo. Keep its exact silhouette, facial features, star and scarf and warm pale gold strokes. Remove ALL speckles, yellow/red noise, textures and debris between strokes and outside strokes. All spaces between the clean gold outlines must be entirely transparent alpha zero. Uniform flat pale gold #f5d48a strokes only, no glow, no shading, no gradient, no other colors. Crisp smooth simplified logo on genuinely transparent background. Preserve head fully inside square canvas with even 6% padding. One icon, no text.
+
+Selected output resized to 256px with sips for website use. Original favicon unchanged.

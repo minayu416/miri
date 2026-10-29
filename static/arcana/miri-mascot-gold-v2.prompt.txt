@@ -1,0 +1,4 @@
+Tool: built-in image_gen; transparent background.
+Reference: miri-mascot-gold-v1.png
+Prompt: Fix only the top-left outer head silhouette: remove the pointed spike at 11 o’clock and replace it with a smooth continuous rounded arc. Preserve internal side-swept fringe, right-side star hair clip, eyes, smile, scarf, warm gold strokes and overall proportions. Transparent background; no new details, text, frame or glow.
+Output resized to 256px with sips. Original v1 preserved.
